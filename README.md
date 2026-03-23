@@ -1,6 +1,6 @@
 **Mini Tools**
 
-- ⚡ [**HidraJS**](https://github.com/hdytrfli/hidra-js) - A monorepo for vite static site generation plugin for building multi-page applications with Handlebars.
+- ⚡ [**HidraJS**](https://github.com/hdytrfli/hidra-js) - A framework for vite static site generation plugin for building multi-page applications with Handlebars.
 - 🎨 [**Fourteen Studio UI collection**](https://github.com/hdytrfli/fourteen-ui) - A personal collection of UI components and micro-interactions.
 - 🎬 [**Subtitle Shifter**](https://subtitle-shifter.vercel.app) - A simple web app that helps you adjust the timing of SRT subtitle files.
 - 🌍 [**Top Level Domain Finder**](https://tld-finder.vercel.app/) - Search the comprehensive list of ICANN-approved Top-Level Domains.

@@ -1,5 +1,6 @@
 **Mini Tools**
 
+- 🗄️ [**Mongorm**](https://github.com/hdytrfli/orm) - A TypeScript-first MongoDB ORM with schema validation, inferred types, and relations.
 - ⚡ [**HidraJS**](https://github.com/hdytrfli/hidra-js) - A Vite based framework for static site generation for building multi-page applications with Handlebars.
 - 🎨 [**Fourteen Studio UI collection**](https://github.com/hdytrfli/fourteen-ui) - A personal collection of UI components and micro-interactions with gsap.
 - 🎬 [**Subtitle Shifter**](https://subtitle-shifter.vercel.app) - A Nextjs Web app that helps you adjust the timing of SRT subtitle files.

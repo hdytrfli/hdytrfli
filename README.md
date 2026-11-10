@@ -1,11 +1,22 @@
-**Mini Tools**
+**Currently building**
 
-- 🗄️ [**Mongorm**](https://github.com/hdytrfli/orm) - A TypeScript-first MongoDB ORM with schema validation, inferred types, and relations.
-- ⚡ [**HidraJS**](https://github.com/hdytrfli/hidra-js) - A Vite based framework for static site generation for building multi-page applications with Handlebars.
-- 🎨 [**Fourteen Studio UI collection**](https://github.com/hdytrfli/fourteen-ui) - A personal collection of UI components and micro-interactions with gsap.
-- 🎬 [**Subtitle Shifter**](https://subtitle-shifter.vercel.app) - A Nextjs Web app that helps you adjust the timing of SRT subtitle files.
-- 🌍 [**Top Level Domain Finder**](https://tld-finder.vercel.app/) - Search the comprehensive list of ICANN-approved Top-Level Domains.
-- 📂 [**Video Organizer and AI Subtitle Translator**](https://github.com/hdytrfli/nichi) - Video File Organizer with AI Translation.
-- ✨ [**Vanna AI Openwebui Integration**](https://github.com/hdytrfli/openwebui-vanna-pipeline) - Vanna AI with OpenWebUI, enabling natural language SQL through a web interface.
-- 🐋 [**Dynamic Local IP Updater**](https://github.com/hdytrfli/dynamic-local-ip) - Bun app to automatically updates a Cloudflare DNS record with your machine's local IP address.
-- 📅 [**Git Date Rewriter**](https://github.com/hdytrfli/gitrw) - Python cli applicatoin to rewrite and modify the date of git commits.
+- 📱 **[Onigiri client](https://github.com/hdytrfli/onigiri)**: native Jellyfin client for Android, with video, books, and music. `Kotlin`
+- 🌐 **[Onigiri web](https://github.com/hdytrfli/onigiri-web)**: landing page for the client. `Astro`
+
+**Selected work**
+
+- 📷 **[Omata](https://github.com/hdytrfli/omata)**: on-device camera OCR for Android. Capture, tap a pill, copy the text. `Kotlin`
+- 🎬 **[Nichi](https://github.com/hdytrfli/nichi)**: TUI video organizer with Gemini subtitle translation. `Python`
+- 🗄️ **[Mongorm](https://github.com/hdytrfli/orm)**: TypeScript-first MongoDB ORM with typed schemas and relations. `TypeScript`
+- ⚡ **[HidraJS](https://github.com/hdytrfli/hidra-js)**: Vite plugin for static multi-page sites with Handlebars. `TypeScript`
+- 🎨 **[Fourteen UI](https://github.com/hdytrfli/fourteen-ui)**: UI components and GSAP micro-interactions. `TypeScript`
+- ✨ **[OpenWebUI Vanna](https://github.com/hdytrfli/openwebui-vanna-pipeline)**: natural-language SQL in Open WebUI, backed by FastAPI. `Python`
+- ⏱️ **[Subtitle Shifter](https://subtitle-shifter.vercel.app)**: shift SRT timings in the browser. `Next.js`
+- 🌍 **[TLD Finder](https://tld-finder.vercel.app)**: search ICANN-approved top-level domains. `TypeScript`
+
+**Smaller tools**
+
+- 🌐 [Dynamic Local IP](https://github.com/hdytrfli/dynamic-local-ip) keeps a Cloudflare DNS record pointed at your machine.
+- 📅 [Git Date Rewriter](https://github.com/hdytrfli/gitrw) rewrites git commit dates from the CLI.
+- 🎞️ [Media Utility](https://github.com/hdytrfli/media-utility) is a set of CLI tools for a self-hosted media library.
+- 🐋 [Personal containers](https://github.com/hdytrfli/personal-containers) is the Docker Compose setup for the homelab.

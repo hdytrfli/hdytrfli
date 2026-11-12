@@ -1,6 +1,6 @@
 **Currently building**
 
-- 🎥 **[Torii](https://github.com/hdytrfli/torii)**: self-hosted media renamer for curated Jellyfin libraries, with a review queue and Docker deployment. `FastAPI · React · SQLite`
+- 🎥 **[Torii](https://github.com/hdytrfli/torii)**: self-hosted media renamer for curated Jellyfin libraries. `FastAPI · React · SQLite`
 - 📱 **[Onigiri client](https://github.com/hdytrfli/onigiri)**: native Jellyfin client for Android, with video, books, and music. `Kotlin`
 - 🌐 **[Onigiri web](https://github.com/hdytrfli/onigiri-web)**: landing page for the client. `Astro`
 
